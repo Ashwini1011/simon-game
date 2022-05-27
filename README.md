@@ -21,7 +21,7 @@ This is a online simon game.This is inspired from a one of the udemy course.
 
 ![App Screenshot](https://github.com/Ashwini1011/simon-game/blob/main/Simon%20game.png)
 
-## Click Here
+## Click Here to play simon game
 https://ashwini1011.github.io/simon-game/
 
 ## Author
